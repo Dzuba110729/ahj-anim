@@ -1,12 +1,5 @@
-# Продвинутый JavaScript в браузере
+# anim
 
-## [Домашнее задание к лекции «Анимация CSS»](https://github.com/netology-code/ahj-homeworks/tree/simplification/anim)
+[project](https://Dzuba110729.github.io/ahj-anim/)
 
-- [x] Collapse
-
-[![CircleCI](https://circleci.com/gh/TomSG03/ahj-animation-collapse/tree/main.svg?style=svg)](https://circleci.com/gh/TomSG03/ahj-animation-collapse/tree/main)
-
-## [GitHub - Pages](https://tomsg03.github.io/ahj-animation-collapse/)
-
----
-[Спискок задач](https://github.com/TomSG03/ahs-homeworks-list)
+[![Build status](https://ci.appveyor.com/api/projects/status/3jsbenm5kw7bqjsu/branch/master?svg=true)](https://ci.appveyor.com/project/Dzuba110729/ahj-anim)
